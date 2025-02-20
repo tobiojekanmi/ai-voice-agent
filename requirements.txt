@@ -1,0 +1,4 @@
+ollama
+vosk
+pyttsx3
+pyaudio
